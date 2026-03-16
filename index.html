@@ -8,7 +8,7 @@
   <link rel="stylesheet" href="assets/style.css">
 </head>
 <body>
-
+ 
 <nav class="nav">
   <div class="nav-logo">YE VAULT</div>
   <div class="nav-tabs">
@@ -21,25 +21,25 @@
     <div class="nav-stat"><span id="nav-songs">—</span> songs</div>
   </div>
 </nav>
-
+ 
 <div class="hero">
   <div id="hero-bg"></div>
   <div class="hero-title">YE VAULT</div>
   <div class="hero-sub">a collection of Ye's full discography</div>
 </div>
-
+ 
 <div class="search-wrap">
   <input id="search-box" class="search-box" type="text" placeholder="search songs or eras..." oninput="onSearch(this.value)" autocomplete="off" spellcheck="false">
 </div>
-
+ 
 <div class="era-list" id="era-list"></div>
-
+ 
 <!-- PLAYER -->
 <div class="player" id="player">
   <div class="player-info">
     <div class="player-title" id="p-title">—</div>
     <div class="player-era" id="p-era"></div>
-    <div class="player-error" id="p-error">can't play this file — open externally instead</div>
+    <div class="player-error" id="p-error">⚠ can't stream this file &nbsp;<a id="p-ext-err" href="#" target="_blank" rel="noopener" style="color:#9c78ff;text-decoration:none;font-weight:500">open on pillows.su →</a></div>
   </div>
   <div class="player-progress">
     <span class="player-time" id="p-cur">0:00</span>
@@ -56,7 +56,7 @@
     <button class="player-close" onclick="closePlayer()">✕</button>
   </div>
 </div>
-
+ 
 <script src="assets/data.js"></script>
 <script src="assets/app.js"></script>
 </body>
