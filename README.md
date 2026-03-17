@@ -2,9 +2,14 @@
 
 A comprehensive archive of every Ye era: unreleased, released, and album copies. Browse songs by era, view quality ratings, and access direct download/stream links.
 
+TIP/DONATION PAGE: https://ko-fi.com/yevault
+
 ---
 
 ## Version History
+
+### v3.1.0
+- Added donation/tip page to site
 
 ### v3.0.0
 - UI improvement
