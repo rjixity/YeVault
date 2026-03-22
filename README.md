@@ -10,6 +10,12 @@ TIP/DONATION PAGE: https://ko-fi.com/yevault
 
 ## Version History
 
+### v3.2.0
+- This version included 2 bug fixes:
+  - Fixed scroll to top button not working
+  - Fixed user being unable to scroll past song 100 on eras longer than 100 songs
+
+
 ### v3.1.0
 - Added donation/tip page to site
 
