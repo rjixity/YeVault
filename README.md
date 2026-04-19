@@ -1,4 +1,4 @@
-# YeVault
+# YE VAULT
 
 ## IF YOU ARE SEEING THIS, THE PAGE IS CURRENTLY UNDER MAINTENANCE... PLEASE WAIT
 
@@ -10,11 +10,18 @@ TIP/DONATION PAGE: https://ko-fi.com/yevault
 
 ## Version History
 
+### v3.3.0
+- Added discovery dates for unreleased songs (if applicable)
+- Also added release dates for released songs/albums
+- Removed YE VAULT SHOP bubble pop up
+
+### v3.2.1
+- Added YE VAULT SHOP icon and bubble pop up
+
 ### v3.2.0
 - This version included 2 bug fixes:
   - Fixed scroll to top button not working
   - Fixed user being unable to scroll past song 100 on eras longer than 100 songs
-
 
 ### v3.1.0
 - Added donation/tip page to site
